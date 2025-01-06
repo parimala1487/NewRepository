@@ -4,7 +4,8 @@ export default class GitExample extends LightningElement {
 
     handleSave()
     {
-        console.log('This is first line of handle save in child branch');
+        console.log('This is first line of handle method in child branch1');
+        console.log('child method has been modified by me');
 
     }
   
